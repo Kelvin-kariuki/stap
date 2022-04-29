@@ -1,0 +1,40 @@
+
+  body{
+      color: green;
+      text-align: center;
+      padding: 10px;
+      border: 1px solid brown;
+      background-color: lightgray;
+  }
+  h1{
+      border: 1px solid green;
+  }
+  h1{
+      padding: 20px;
+  }
+  p{
+      display: inline;
+      
+  }
+  .container{
+      margin: 10px;
+      background-color: rgb(243, 234, 234);
+  }
+  .summary{
+      margin: 10px;
+      background-color: aqua;
+  }
+  #cent{
+      font-weight: bold;
+      color: blue;
+  }
+  #sun{
+      padding: 20px;
+      line-height: 0.7em;
+      font-style: italic;
+      color: black;
+  }
+  a:link{
+      background-color: yellow;
+      padding: 20px;
+  }
